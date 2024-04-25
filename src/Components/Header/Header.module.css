@@ -1,0 +1,10 @@
+.Header {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	max-height: 45px;
+	color: brown;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	cursor: pointer;
+}
